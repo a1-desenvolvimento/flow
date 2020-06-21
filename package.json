@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/a1-desenvolvimento/flow/issues"
   },
-  "homepage": "https://github.com/a1-desenvolvimento/flow#readme"
+  "homepage": "https://github.com/a1-desenvolvimento/flow#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
